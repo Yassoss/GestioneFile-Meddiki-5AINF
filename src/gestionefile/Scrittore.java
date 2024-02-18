@@ -7,9 +7,10 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
  * @author Meddiki Yassine
  * @version 18/01/24
+ * Questa classe implementa l'interfaccia "Runnable"
+ * e si occupa di scrivere i dati dell'utente
  */
 
 public class Scrittore implements Runnable{
